@@ -1,0 +1,5 @@
+Credentials cache: API:F4BDD7E5-5FED-4ED7-9E33-1CB10E2736BF
+        Principal: tramet@42.FR
+
+  Issued                Expires               Principal
+Aug 27 15:47:11 2018  Sep  3 15:47:11 2018  krbtgt/42.FR@42.FR
